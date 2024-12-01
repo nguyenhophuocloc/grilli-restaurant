@@ -1,7 +1,6 @@
 <div align="center">
 
   <br />
-  <br />
 
   <h2 align="center">Grilli - Restaurant Website</h2>
 
@@ -14,6 +13,7 @@
 <br />
 
 ### Demo Screeshots
+![screencapture-nguyenhophuocloc-github-io-grilli-restaurant-2024-12-01-21_47_25](https://github.com/user-attachments/assets/1c4b39a1-17d7-4f47-8524-df15e8b20899)
 
 ### License
 
