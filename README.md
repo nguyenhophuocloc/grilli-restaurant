@@ -15,8 +15,6 @@
 
 ### Demo Screeshots
 
-![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
-
 ### License
 
 [MIT](https://choosealicense.com/licenses/mit/)
